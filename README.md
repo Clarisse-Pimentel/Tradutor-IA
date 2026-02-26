@@ -26,11 +26,4 @@ Foi uma forma prática de aprender:
 
 Praticar desenvolvimento front-end e entender como funciona a integração com APIs externas.
 
-## 📷 Preview
-<p align="center">
-  <img src="preview.png" width="600">
-</p>
-![Preview](images/preview.png)
-
-
 ---
