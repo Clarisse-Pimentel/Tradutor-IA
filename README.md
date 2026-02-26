@@ -26,11 +26,11 @@ Foi uma forma prática de aprender:
 
 Praticar desenvolvimento front-end e entender como funciona a integração com APIs externas.
 
-## 📷 Demonstração
+## 📷 Preview
 <p align="center">
   <img src="preview.png" width="600">
 </p>
-![Demonstração](imagens/pré-visualização.png)
+![Preview](images/preview.png)
 
 
 ---
