@@ -30,7 +30,7 @@ Praticar desenvolvimento front-end e entender como funciona a integração com A
 <p align="center">
   <img src="preview.png" width="600">
 </p>
-![Demonstração](imagens/preview.png)
+![Demonstração](imagens/pré-visualização.png)
 
 
 ---
