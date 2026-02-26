@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tradutor IA DevClub</title>
+</head>
+
+<body>
+    <div class="box">
+        <textarea class="input-texto"></textarea>
+        <div class="controlar">
+            <select class="idiomas">
+                <option value="de">Alemão</option>
+                <option value="es">Espanhol</option>
+                <option value="fr">Francês</option>
+                <option value="en">Inglês</option>
+                <option value="it">Italiano</option>
+                <option value="ja">Japonês</option>
+                <option value="ru">Russo</option>
+            </select>
+            <button onclick="traduzir()">
+                <img src="images/traduzir.svg">
+            </button>
+            <button onclick="ouvirVoz()">
+                <img src="images/microfone.svg">
+            </button>
+        </div>
+        <div class="traducao">
+            <h3 class="titulo">Tradução</h3>
+            <p class="paragrafo">Sua tradução está aqui...</p>
+        </div>
+    </div>
+</body>
+
+<script src="scripts.js"></script>
+
+</html>
